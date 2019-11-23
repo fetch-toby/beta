@@ -5,6 +5,7 @@ iodepth=${IOD}
 rw=${RW}
 numjobs=${NJ}
 direct=${DIRECT}
+fsync=${FSYNC}
 bs=${BLOCK_SIZE}
 runtime=${RUN_TIME}
 time_based=1

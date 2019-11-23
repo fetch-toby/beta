@@ -7,6 +7,7 @@ export IOD=${IOD:-16}
 export BLOCK_SIZE=${BLOCK_SIZE:-4k}
 export F_NAME=${F_NAME:-/data/myfio}
 export DIRECT=${DIRECT:-1}
+export FSYNC=${FSYNC:-1}
 export SIZE=${SIZE:-256M}
 export RW=${RW:-randread}
 export RUN_TIME=${RUN_TIME:-900}
